@@ -7,7 +7,7 @@ import sys
 
 user = 'uo-puddles'  #change to your github name
 repo = 'cis423_starter'  #change to your own repo name
-repo = 'cis423_v1'   #**************************************** remove this before class
+repo = 'cis423_w22'   #**************************************** remove this before class
 sub = 'setup'        #change to your file name
 
 #bring a fresh copy of the repo in and import.
