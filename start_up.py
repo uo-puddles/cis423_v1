@@ -3,6 +3,7 @@ import numpy as np
 import subprocess
 import importlib
 import sys
+import matplotlib.pyplot as plt
 
 
 user = 'uo-puddles'  #change to your github name
